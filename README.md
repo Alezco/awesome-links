@@ -3,27 +3,30 @@ A list of awesome links to articles, websites, videos, and more
 
 # 📰 Articles
 ## React
-- https://www.lorenzweiss.de/common_mistakes_react_hooks/
+- 5 common mistakes with React components: https://www.lorenzweiss.de/common_mistakes_react_hooks/
 ## Javascript
-- https://deepu.tech/memory-management-in-v8/
+- Memory management in v8: https://deepu.tech/memory-management-in-v8/
 ## Privacy
-- https://fdossena.com/?p=w10debotnet/index_1903.frag
+- Improve privacy in Windows 10: https://fdossena.com/?p=w10debotnet/index_1903.frag
+- An interrogation about tracking: https://underjord.io/is-this-evil.html
 ## Other
-- http://web.mit.edu/jemorris/humor/500-miles
-- https://underjord.io/is-this-evil.html
+- The story of a very strange bug: http://web.mit.edu/jemorris/humor/500-miles
 
 # 🌐 Websites
 ## Javascript
-- https://questions.wizardzines.com/event-loops.html
-- https://whatthefuck.is/
+- Quizz about JS event loop: https://questions.wizardzines.com/event-loops.html
+- Programming concepts: https://whatthefuck.is/
 
 # 🎥 Videos
 ## Event Loop
-- https://www.youtube.com/watch?v=cCOL7MC4Pl0
+- Conference about the event loop: https://www.youtube.com/watch?v=cCOL7MC4Pl0
 ## Vue
-- https://www.youtube.com/watch?v=OrxmtDw4pVI
+- Documentary about Vue.js: https://www.youtube.com/watch?v=OrxmtDw4pVI
 
-# 🔗 Other
-- https://twitter.com/tprstly/status/1298980215138394113
-- https://twitter.com/iamdevloper
-- https://vole.wtf/coder-serial-killer-quiz/
+# 🔗 Links
+## Repositories
+- Typescript challenge: https://github.com/type-challenges/type-challenges
+## Other
+- Browsing the web in 2020: https://twitter.com/tprstly/status/1298980215138394113
+- Wonderful Twitter account: https://twitter.com/iamdevloper
+- Serial killer or programming language inventor?: https://vole.wtf/coder-serial-killer-quiz/
