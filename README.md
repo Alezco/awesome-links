@@ -1,4 +1,4 @@
-# awsome-links
+# awesome-links
 A list of awesome links to articles, websites, videos, and more
 
 # 📰 Articles
