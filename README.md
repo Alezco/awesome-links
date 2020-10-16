@@ -32,3 +32,4 @@ A list of awesome links to articles, websites, videos, and more
 - Wonderful Twitter account: https://twitter.com/iamdevloper
 - Twitter thread about a weird bug: https://twitter.com/Foone/status/1229641258370355200?s=19
 - Serial killer or programming language inventor?: https://vole.wtf/coder-serial-killer-quiz/
+- A good reason to do C#: https://wdebowicz.itch.io/debugger
