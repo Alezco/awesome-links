@@ -6,6 +6,7 @@ A list of awesome links to articles, websites, videos, and more
 - 5 common mistakes with React components: https://www.lorenzweiss.de/common_mistakes_react_hooks/
 ## ⌨ Javascript
 - Memory management in v8: https://deepu.tech/memory-management-in-v8/
+- Don't Copy Paste Into A Shell: https://briantracy.xyz/writing/copy-paste-shell.html
 ## 🔒 Privacy
 - Improve privacy in Windows 10: https://fdossena.com/?p=w10debotnet/index_1903.frag
 - An interrogation about tracking: https://underjord.io/is-this-evil.html
