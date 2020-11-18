@@ -4,6 +4,7 @@ A list of awesome links to articles, websites, videos, and more
 # 📰 Articles
 ## ⚛️ React
 - 5 common mistakes with React components: https://www.lorenzweiss.de/common_mistakes_react_hooks/
+- 10 React security best practices: https://snyk.io/blog/10-react-security-best-practices/
 ## ⌨ Javascript
 - Memory management in v8: https://deepu.tech/memory-management-in-v8/
 - Don't Copy Paste Into A Shell: https://briantracy.xyz/writing/copy-paste-shell.html
