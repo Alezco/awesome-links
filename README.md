@@ -34,6 +34,9 @@ A list of awesome links to articles, websites, videos, and more
 ## 👁️ Vue
 - Documentary about Vue.js: https://www.youtube.com/watch?v=OrxmtDw4pVI
 
+## ⚛️ React
+- React Server components explained : https://www.youtube.com/watch?v=TQQPAU21ZUw
+
 # 🔗 Links
 ## 📁 Repositories
 - Typescript challenge: https://github.com/type-challenges/type-challenges
@@ -54,4 +57,4 @@ A list of awesome links to articles, websites, videos, and more
 - Twitter thread about a weird bug: https://twitter.com/Foone/status/1229641258370355200?s=19
 - Serial killer or programming language inventor?: https://vole.wtf/coder-serial-killer-quiz/
 - A good reason to do C#: https://wdebowicz.itch.io/debugger
-- Should i deploy today?: https://shouldideploy.today/
+- Should I deploy today?: https://shouldideploy.today/
