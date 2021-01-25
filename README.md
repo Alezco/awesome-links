@@ -5,6 +5,7 @@ A list of awesome links to articles, websites, videos, and more
 ## ⚛️ React
 - 5 common mistakes with React components: https://www.lorenzweiss.de/common_mistakes_react_hooks/
 - 10 React security best practices: https://snyk.io/blog/10-react-security-best-practices/
+- React is not always a good choice: https://medium.com/better-programming/i-almost-got-fired-for-choosing-react-in-our-enterprise-app-846ea840841c
 
 ## ⌨ Javascript
 - Memory management in v8: https://deepu.tech/memory-management-in-v8/
