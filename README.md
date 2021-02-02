@@ -32,6 +32,7 @@ A list of awesome links to articles, websites, videos, and more
 # 🎥 Videos
 ## ➰ Event Loop
 - Conference about the event loop: https://www.youtube.com/watch?v=cCOL7MC4Pl0
+- Another conference on the same subject: https://www.youtube.com/watch?v=8aGhZQkoFbQ
 
 ## 👁️ Vue
 - Documentary about Vue.js: https://www.youtube.com/watch?v=OrxmtDw4pVI
