@@ -39,7 +39,10 @@ A list of awesome links to articles, websites, videos, and more
 - Documentary about Vue.js: https://www.youtube.com/watch?v=OrxmtDw4pVI
 
 ## ⚛️ React
-- React Server components explained : https://www.youtube.com/watch?v=TQQPAU21ZUw
+- React Server components explained: https://www.youtube.com/watch?v=TQQPAU21ZUw
+
+## 🎁 Other
+- Database transactions explained: https://www.youtube.com/watch?v=5ZjhNTM8XU8
 
 # 🔗 Links
 ## 📁 Repositories
