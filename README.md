@@ -68,3 +68,4 @@ A list of awesome links to articles, websites, videos, and more
 - Serial killer or programming language inventor?: https://vole.wtf/coder-serial-killer-quiz/
 - A good reason to do C#: https://wdebowicz.itch.io/debugger
 - Should I deploy today?: https://shouldideploy.today/
+- A cookie consent speeedrun: https://cookieconsentspeed.run/
