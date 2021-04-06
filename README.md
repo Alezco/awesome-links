@@ -45,6 +45,7 @@ A list of awesome links to articles, websites, videos, and more
 
 ## 🎁 Other
 - Database transactions explained: https://www.youtube.com/watch?v=5ZjhNTM8XU8
+- TDD, Where Did It All Go Wrong: https://www.youtube.com/watch?v=EZ05e7EMOLM&t=2s
 
 # 🔗 Links
 ## 📁 Repositories
