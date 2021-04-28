@@ -38,7 +38,6 @@ A list of awesome links to articles, websites, videos, and more
 ## ➰ Event Loop
 - Conference about the event loop: https://www.youtube.com/watch?v=cCOL7MC4Pl0
 - Another conference on the same subject: https://www.youtube.com/watch?v=8aGhZQkoFbQ
-- Using Python Skills To Punish Credit Card Scammers: https://www.youtube.com/watch?v=StmNWzHbQJU
 
 ## 👁️ Vue
 - Documentary about Vue.js: https://www.youtube.com/watch?v=OrxmtDw4pVI
@@ -49,6 +48,7 @@ A list of awesome links to articles, websites, videos, and more
 ## 🎁 Other
 - Database transactions explained: https://www.youtube.com/watch?v=5ZjhNTM8XU8
 - TDD, Where Did It All Go Wrong: https://www.youtube.com/watch?v=EZ05e7EMOLM&t=2s
+- Using Python Skills To Punish Credit Card Scammers: https://www.youtube.com/watch?v=StmNWzHbQJU
 
 # 🔗 Links
 ## 📁 Repositories
@@ -74,3 +74,4 @@ A list of awesome links to articles, websites, videos, and more
 - A good reason to do C#: https://wdebowicz.itch.io/debugger
 - Should I deploy today?: https://shouldideploy.today/
 - A cookie consent speeedrun: https://cookieconsentspeed.run/
+- User inyerface: https://userinyerface.com/game.html
