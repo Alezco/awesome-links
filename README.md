@@ -34,6 +34,9 @@ A list of awesome links to articles, websites, videos, and more
 - Programming concepts: https://whatthefuck.is/
 - A graph of all npm packages: https://anvaka.github.io/pm/#/galaxy/npm
 
+## 🎁 Other
+- Guide to HTML head: https://htmlhead.dev/
+
 # 🎥 Videos
 ## ➰ Event Loop
 - Conference about the event loop: https://www.youtube.com/watch?v=cCOL7MC4Pl0
