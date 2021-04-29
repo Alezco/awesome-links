@@ -27,6 +27,7 @@ A list of awesome links to articles, websites, videos, and more
 - The 10 Commandments of Egoless Programming: https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/
 - Kubernetes explained with an aquarium: https://medium.com/@AnneLoVerso/the-kubernetes-aquarium-6a3d1d7a2afd
 - Inside a viral website: https://notfunatparties.substack.com/p/inside-a-viral-website
+- Wirth's law: https://en.wikipedia.org/wiki/Wirth%27s_law
 
 # 🌐 Websites
 ## ⌨ Javascript
