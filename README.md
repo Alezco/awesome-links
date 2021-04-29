@@ -20,7 +20,7 @@ A list of awesome links to articles, websites, videos, and more
 - Your computer isn't yours: https://sneak.berlin/20201112/your-computer-isnt-yours/
 - Trackers in smartphone apps: https://nrkbeta.no/2020/12/03/my-phone-was-spying-on-me-so-i-tracked-down-the-surveillants/
 
-## 🎁 Other
+## 💻 Other
 - The story of a very strange bug: http://web.mit.edu/jemorris/humor/500-miles
 - Git internal architecture: https://indepth.dev/becoming-a-git-pro-part-1-internal-git-architecture/
 - 6 programmer tips: https://blog.nickbulljs.com/6-essential-things-i-wish-i-knew-when-i-started-programming
@@ -34,7 +34,7 @@ A list of awesome links to articles, websites, videos, and more
 - Programming concepts: https://whatthefuck.is/
 - A graph of all npm packages: https://anvaka.github.io/pm/#/galaxy/npm
 
-## 🎁 Other
+## 💻 Other
 - Guide to HTML head: https://htmlhead.dev/
 
 # 🎥 Videos
@@ -48,7 +48,7 @@ A list of awesome links to articles, websites, videos, and more
 ## ⚛️ React
 - React Server components explained: https://www.youtube.com/watch?v=TQQPAU21ZUw
 
-## 🎁 Other
+## 💻 Other
 - Database transactions explained: https://www.youtube.com/watch?v=5ZjhNTM8XU8
 - TDD, Where Did It All Go Wrong: https://www.youtube.com/watch?v=EZ05e7EMOLM&t=2s
 - Using Python Skills To Punish Credit Card Scammers: https://www.youtube.com/watch?v=StmNWzHbQJU
@@ -68,7 +68,7 @@ A list of awesome links to articles, websites, videos, and more
 - Build your own... whatever: https://github.com/danistefanovic/build-your-own-x
 - Get rid of Google: https://github.com/tycrek/degoogle
 
-## 🎁 Other
+## 💻 Other
 - Browsing the web in 2020: https://twitter.com/tprstly/status/1298980215138394113
 - Wonderful Twitter account: https://twitter.com/iamdevloper
 - Twitter thread about a weird bug: https://twitter.com/Foone/status/1229641258370355200?s=19
