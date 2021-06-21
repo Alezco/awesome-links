@@ -35,6 +35,7 @@ A list of awesome links to articles, websites, videos, and more
 - Quizz about JS event loop: https://questions.wizardzines.com/event-loops.html
 - Programming concepts: https://whatthefuck.is/
 - A graph of all npm packages: https://anvaka.github.io/pm/#/galaxy/npm
+- A quizz about JS weirdness: https://jsisweird.com/
 
 ## 💻 Other
 - Guide to HTML head: https://htmlhead.dev/
