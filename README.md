@@ -56,6 +56,7 @@ A list of awesome links to articles, websites, videos, and more
 - TDD, Where Did It All Go Wrong: https://www.youtube.com/watch?v=EZ05e7EMOLM&t=2s
 - Using Python Skills To Punish Credit Card Scammers: https://www.youtube.com/watch?v=StmNWzHbQJU
 - Five Things Every Developer Should Know about Software Architecture: https://www.youtube.com/watch?v=9Az0q2XHtH8
+- CSS Variables: https://www.youtube.com/watch?v=2an6-WVPuJU
 
 # 🔗 Links
 ## 📁 Repositories
