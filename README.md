@@ -14,6 +14,7 @@ A list of awesome links to articles, websites, videos, and more
 - Memory management in v8: https://deepu.tech/memory-management-in-v8/
 - Don't Copy Paste Into A Shell: https://briantracy.xyz/writing/copy-paste-shell.html
 - Making GitHub homepage fast and performant: https://github.blog/2021-01-29-making-githubs-new-homepage-fast-and-performant/
+- Javascript Coroutines: https://x.st/javascript-coroutines/
 
 ## 🔒 Privacy
 - Improve privacy in Windows 10: https://fdossena.com/?p=w10debotnet/index_1903.frag
