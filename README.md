@@ -15,6 +15,7 @@ A list of awesome links to articles, websites, videos, and more
 - Don't Copy Paste Into A Shell: https://briantracy.xyz/writing/copy-paste-shell.html
 - Making GitHub homepage fast and performant: https://github.blog/2021-01-29-making-githubs-new-homepage-fast-and-performant/
 - Javascript Coroutines: https://x.st/javascript-coroutines/
+- 60fps Javascript while you stringify, parse, process, compress and filter 100Mbs of data: https://dev.to/miketalbot/60fps-javascript-while-stringfying-and-parsing-100mbs-of-json-84l
 
 ## 🔒 Privacy
 - Improve privacy in Windows 10: https://fdossena.com/?p=w10debotnet/index_1903.frag
