@@ -59,6 +59,7 @@ A list of awesome links to articles, websites, videos, and more
 - Using Python Skills To Punish Credit Card Scammers: https://www.youtube.com/watch?v=StmNWzHbQJU
 - Five Things Every Developer Should Know about Software Architecture: https://www.youtube.com/watch?v=9Az0q2XHtH8
 - CSS Variables: https://www.youtube.com/watch?v=2an6-WVPuJU
+- Which JS Framework is best?: https://www.youtube.com/watch?v=cuHDQhDhvPE
 
 # 🔗 Links
 ## 📁 Repositories
