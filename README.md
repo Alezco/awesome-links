@@ -87,3 +87,4 @@ A list of awesome links to articles, websites, videos, and more
 - Should I deploy today?: https://shouldideploy.today/
 - A cookie consent speeedrun: https://cookieconsentspeed.run/
 - User inyerface: https://userinyerface.com/game.html
+- Twitter thread about 17 programmer tools: https://twitter.com/MakadiaHarsh/status/1436332975826821144?s=19
