@@ -76,6 +76,7 @@ A list of awesome links to articles, websites, videos, and more
 - Build your own... whatever: https://github.com/danistefanovic/build-your-own-x
 - Get rid of Google: https://github.com/tycrek/degoogle
 - awesome-privacy: https://github.com/pluja/awesome-privacy
+- react-philosophies: https://github.com/mithi/react-philosophies
 
 ## 💻 Other
 - Browsing the web in 2020: https://twitter.com/tprstly/status/1298980215138394113
