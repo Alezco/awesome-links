@@ -43,6 +43,7 @@ A list of awesome links to articles, websites, videos, and more
 
 ## 💻 Other
 - Guide to HTML head: https://htmlhead.dev/
+- Privacy not included: https://foundation.mozilla.org/privacynotincluded/
 
 # 🎥 Videos
 ## ➰ Event Loop
