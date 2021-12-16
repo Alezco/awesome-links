@@ -33,6 +33,7 @@ A list of awesome links to articles, websites, videos, and more
 - Wirth's law: https://en.wikipedia.org/wiki/Wirth%27s_law
 - Developser can save the planet: https://marmelab.com/blog/2020/09/22/developers-save-the-planet-the-solution.html
 - How Web Content Can Affect Power Usage: https://webkit.org/blog/8970/how-web-content-can-affect-power-usage/
+- The CSS Best Practices to Follow and the Bad Habits to Avoid: https://medium.com/@hossam.hilal0/the-css-best-practices-to-follow-and-the-bad-habits-to-avoid-63230079ddc5
 
 # 🌐 Websites
 ## ⌨ Javascript
