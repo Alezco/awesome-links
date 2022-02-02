@@ -47,6 +47,7 @@ A list of awesome links to articles, websites, videos, and more
 ## 💻 Other
 - Guide to HTML head: https://htmlhead.dev/
 - Privacy not included: https://foundation.mozilla.org/privacynotincluded/
+- CSS Grid Garden: https://cssgridgarden.com/
 
 # 🎥 Videos
 ## ➰ Event Loop
