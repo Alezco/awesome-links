@@ -36,6 +36,7 @@ A list of awesome links to articles, websites, videos, and more
 - The CSS Best Practices to Follow and the Bad Habits to Avoid: https://medium.com/@hossam.hilal0/the-css-best-practices-to-follow-and-the-bad-habits-to-avoid-63230079ddc5
 - Branchless programming: https://dev.to/jobinrjohnson/branchless-programming-does-it-really-matter-20j4
 - 70% of the Carbon Footprint Caused by Ads and Stats: https://marmelab.com/blog/2022/01/17/media-websites-carbon-emissions.html
+- React Native’s Architecture https://medium.com/coox-tech/deep-dive-into-react-natives-new-architecture-fb67ae615ccd
 
 # 🌐 Websites
 ## ⌨ Javascript
