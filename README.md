@@ -26,7 +26,6 @@ A list of awesome links to articles, websites, videos, and more
 ## 💻 Other
 - The story of a very strange bug: http://web.mit.edu/jemorris/humor/500-miles
 - Git internal architecture: https://indepth.dev/becoming-a-git-pro-part-1-internal-git-architecture/
-- 6 programmer tips: https://blog.nickbulljs.com/6-essential-things-i-wish-i-knew-when-i-started-programming
 - The 10 Commandments of Egoless Programming: https://blog.codinghorror.com/the-ten-commandments-of-egoless-programming/
 - Kubernetes explained with an aquarium: https://medium.com/@AnneLoVerso/the-kubernetes-aquarium-6a3d1d7a2afd
 - Inside a viral website: https://notfunatparties.substack.com/p/inside-a-viral-website
