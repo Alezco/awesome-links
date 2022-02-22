@@ -48,6 +48,7 @@ A list of awesome links to articles, websites, videos, and more
 - Guide to HTML head: https://htmlhead.dev/
 - Privacy not included: https://foundation.mozilla.org/privacynotincluded/
 - CSS Grid Garden: https://cssgridgarden.com/
+- The XY Problem https://xyproblem.info/
 
 # 🎥 Videos
 ## ➰ Event Loop
