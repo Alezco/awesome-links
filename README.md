@@ -37,6 +37,7 @@ A list of awesome links to articles, websites, videos, and more
 - 70% of the Carbon Footprint Caused by Ads and Stats: https://marmelab.com/blog/2022/01/17/media-websites-carbon-emissions.html
 - React Native’s Architecture: https://medium.com/coox-tech/deep-dive-into-react-natives-new-architecture-fb67ae615ccd
 - CSS as a backend: https://dev.to/thormeier/dont-try-this-at-home-css-as-the-backend-what-3oih
+- Airbnb's Architecture: https://www.quastor.org/p/airbnbs-architecture?s=r
 
 # 🌐 Websites
 ## ⌨ Javascript
