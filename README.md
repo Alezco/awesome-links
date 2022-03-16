@@ -38,6 +38,7 @@ A list of awesome links to articles, websites, videos, and more
 - React Native’s Architecture: https://medium.com/coox-tech/deep-dive-into-react-natives-new-architecture-fb67ae615ccd
 - CSS as a backend: https://dev.to/thormeier/dont-try-this-at-home-css-as-the-backend-what-3oih
 - Airbnb's Architecture: https://www.quastor.org/p/airbnbs-architecture?s=r
+- Making the world’s fastest website, and other mistakes: https://dev.to/tigt/making-the-worlds-fastest-website-and-other-mistakes-56na
 
 # 🌐 Websites
 ## ⌨ Javascript
