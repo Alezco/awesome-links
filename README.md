@@ -53,6 +53,7 @@ A list of awesome links to articles, websites, videos, and more
 - Privacy not included: https://foundation.mozilla.org/privacynotincluded/
 - CSS Grid Garden: https://cssgridgarden.com/
 - The XY Problem https://xyproblem.info/
+- Edge cases in music: https://dustri.org/b/horrible-edge-cases-to-consider-when-dealing-with-music.html
 
 # 🎥 Videos
 ## ➰ Event Loop
