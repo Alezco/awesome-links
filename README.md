@@ -55,6 +55,7 @@ A list of awesome links to articles, websites, videos, and more
 - The XY Problem https://xyproblem.info/
 - Edge cases in music: https://dustri.org/b/horrible-edge-cases-to-consider-when-dealing-with-music.html
 - 9 Practice Labs to Master XSS: https://threadreaderapp.com/thread/1508406052663934979.html
+- Terms of Service; Didn't read: https://tosdr.org/
 
 # 🎥 Videos
 ## ➰ Event Loop
