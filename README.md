@@ -48,6 +48,7 @@ A list of awesome links to articles, websites, videos, and more
 - Programming concepts: https://whatthefuck.is/
 - A graph of all npm packages: https://anvaka.github.io/pm/#/galaxy/npm
 - A quizz about JS weirdness: https://jsisweird.com/
+- Islands architecture: https://www.patterns.dev/posts/islands-architecture/
 
 ## 💻 Other
 - Guide to HTML head: https://htmlhead.dev/
