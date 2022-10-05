@@ -49,6 +49,7 @@ A list of awesome links to articles, websites, videos, and more
 - A graph of all npm packages: https://anvaka.github.io/pm/#/galaxy/npm
 - A quizz about JS weirdness: https://jsisweird.com/
 - Islands architecture: https://www.patterns.dev/posts/islands-architecture/
+- Build your own React: https://pomb.us/build-your-own-react/
 
 ## 💻 Other
 - Guide to HTML head: https://htmlhead.dev/
