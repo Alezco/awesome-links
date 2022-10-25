@@ -17,6 +17,7 @@ A list of awesome links to articles, websites, videos, and more
 - Javascript Coroutines: https://x.st/javascript-coroutines/
 - 60fps Javascript while you stringify, parse, process, compress and filter 100Mbs of data: https://dev.to/miketalbot/60fps-javascript-while-stringfying-and-parsing-100mbs-of-json-84l
 - Handling Time Zone in JavaScript: https://toastui.medium.com/handling-time-zone-in-javascript-547e67aa842d
+- Stop using CSS-in-JS: https://dev.to/srmagura/why-were-breaking-up-wiht-css-in-js-4g9b
 
 ## 🔒 Privacy
 - Improve privacy in Windows 10: https://fdossena.com/?p=w10debotnet/index_1903.frag
