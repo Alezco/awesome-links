@@ -41,7 +41,7 @@ A list of awesome links to articles, websites, videos, and more
 - CSS as a backend: https://dev.to/thormeier/dont-try-this-at-home-css-as-the-backend-what-3oih
 - Airbnb's Architecture: https://www.quastor.org/p/airbnbs-architecture?s=r
 - Making the world’s fastest website, and other mistakes: https://dev.to/tigt/making-the-worlds-fastest-website-and-other-mistakes-56na
-- https://www.crunchydata.com/blog/demystifying-database-performance-for-developers
+- Demystifying Database Performance for Developers: https://www.crunchydata.com/blog/demystifying-database-performance-for-developers
 - How Web Content Can Affect Power Usage: https://webkit.org/blog/8970/how-web-content-can-affect-power-usage/
 
 # 🌐 Websites
