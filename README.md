@@ -19,6 +19,7 @@ A list of awesome links to articles, websites, videos, and more
 - Handling Time Zone in JavaScript: https://toastui.medium.com/handling-time-zone-in-javascript-547e67aa842d
 - Stop using CSS-in-JS: https://dev.to/srmagura/why-were-breaking-up-wiht-css-in-js-4g9b
 - Front-end performance checklist: https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/
+- The Frustration Index: https://calendar.perfplanet.com/2019/frustrationindex-mind-the-gap/
 
 ## 🔒 Privacy
 - Improve privacy in Windows 10: https://fdossena.com/?p=w10debotnet/index_1903.frag
