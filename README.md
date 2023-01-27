@@ -65,6 +65,7 @@ A list of awesome links to articles, websites, videos, and more
 - 9 Practice Labs to Master XSS: https://threadreaderapp.com/thread/1508406052663934979.html
 - Terms of Service; Didn't read: https://tosdr.org/
 - 100 Days Of More Or Less Modern CSS: https://www.matuzo.at/blog/2022/100-days-of-more-or-less-modern-css/
+- Motherfucking website: https://motherfuckingwebsite.com/
 
 # 🎥 Videos
 ## ➰ Event Loop
