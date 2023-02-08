@@ -46,6 +46,7 @@ A list of awesome links to articles, websites, videos, and more
 - Demystifying Database Performance for Developers: https://www.crunchydata.com/blog/demystifying-database-performance-for-developers
 - How Web Content Can Affect Power Usage: https://webkit.org/blog/8970/how-web-content-can-affect-power-usage/
 - Database Connection Pools: https://medium.com/javarevisited/why-do-we-need-a-database-connection-pool-every-programmer-must-know-9f90e7c8e5af
+- The Tragedy of Craftsmanship: https://blog.cleancoder.com/uncle-bob/2018/08/28/CraftsmanshipMovement.html
 
 # 🌐 Websites
 ## ⌨ Javascript
