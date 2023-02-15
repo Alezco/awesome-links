@@ -20,6 +20,7 @@ A list of awesome links to articles, websites, videos, and more
 - Stop using CSS-in-JS: https://dev.to/srmagura/why-were-breaking-up-wiht-css-in-js-4g9b
 - Front-end performance checklist: https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/
 - The Frustration Index: https://calendar.perfplanet.com/2019/frustrationindex-mind-the-gap/
+- Rethinking the Modern Web: https://dev.to/oxharris/rethinking-the-modern-web-5cn1
 
 ## 🔒 Privacy
 - Improve privacy in Windows 10: https://fdossena.com/?p=w10debotnet/index_1903.frag
