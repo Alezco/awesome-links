@@ -48,6 +48,7 @@ A list of awesome links to articles, websites, videos, and more
 - How Web Content Can Affect Power Usage: https://webkit.org/blog/8970/how-web-content-can-affect-power-usage/
 - Database Connection Pools: https://medium.com/javarevisited/why-do-we-need-a-database-connection-pool-every-programmer-must-know-9f90e7c8e5af
 - The Tragedy of Craftsmanship: https://blog.cleancoder.com/uncle-bob/2018/08/28/CraftsmanshipMovement.html
+- "Clean" Code, Horrible Performance: https://www.computerenhance.com/p/clean-code-horrible-performance
 
 # 🌐 Websites
 ## ⌨ Javascript
