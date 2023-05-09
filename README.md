@@ -26,7 +26,8 @@ A list of awesome links to articles, websites, videos, and more
 - Improve privacy in Windows 10: https://fdossena.com/?p=w10debotnet/index_1903.frag
 - An interrogation about tracking: https://underjord.io/is-this-evil.html
 - Your computer isn't yours: https://sneak.berlin/20201112/your-computer-isnt-yours/
-- Trackers in smartphone apps: https://nrkbeta.no/2020/12/03/my-phone-was-spying-on-me-so-i-tracked-down-the-surveillants/
+- Trackers in smartphone apps: https://nrkbeta.no/2020/12/03/my-phone-was-spying-on-me-so-i-tracked-down-the-surveillants/*
+- Privacy is sexy: https://privacy.sexy/
 
 ## 💻 Other
 - The story of a very strange bug: http://web.mit.edu/jemorris/humor/500-miles
