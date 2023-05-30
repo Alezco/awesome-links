@@ -10,6 +10,7 @@ A list of awesome links to articles, websites, videos, and more
 - The Perils of Rehydration: https://www.joshwcomeau.com/react/the-perils-of-rehydration
 - Clean pattern for handling roles and permissions in large-scale React apps : https://itnext.io/clean-pattern-for-handling-roles-and-permissions-in-large-scale-react-apps-99531869ad71
 - You Might Not Need an Effect: https://react.dev/learn/you-might-not-need-an-effect
+- React I Love You, But You're Bringing Me Down: https://marmelab.com/blog/2022/09/20/react-i-love-you.html
 
 ## ⌨ Javascript
 - Memory management in v8: https://deepu.tech/memory-management-in-v8/
