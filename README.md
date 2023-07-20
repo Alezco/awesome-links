@@ -95,6 +95,7 @@ A list of awesome links to articles, websites, videos, and more
 - CSS Variables: https://www.youtube.com/watch?v=2an6-WVPuJU
 - Which JS Framework is best?: https://www.youtube.com/watch?v=cuHDQhDhvPE
 - Svelte Origins: A JavaScript Documentary: https://www.youtube.com/watch?v=kMlkCYL9qo0
+- The cost of JavaScript: https://www.youtube.com/watch?v=ZKH3DLT4BKw
 
 # 🔗 Links
 ## 📁 Repositories
