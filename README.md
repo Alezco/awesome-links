@@ -75,6 +75,7 @@ A list of awesome links to articles, websites, videos, and more
 - 100 Days Of More Or Less Modern CSS: https://www.matuzo.at/blog/2022/100-days-of-more-or-less-modern-css/
 - Motherfucking website: https://motherfuckingwebsite.com/
 - The Password Game: https://neal.fun/password-game/
+- Data Collection Techniques: https://www.whonix.org/wiki/Data_Collection_Techniques
 
 # 🎥 Videos
 ## ➰ Event Loop
