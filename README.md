@@ -78,15 +78,11 @@ A list of awesome links to articles, websites, videos, and more
 - Data Collection Techniques: https://www.whonix.org/wiki/Data_Collection_Techniques
 
 # 🎥 Videos
-## ➰ Event Loop
 - Conference about the event loop: https://www.youtube.com/watch?v=cCOL7MC4Pl0
 - Another conference on the same subject: https://www.youtube.com/watch?v=8aGhZQkoFbQ
-
-## 👁️ Vue
 - Documentary about Vue.js: https://www.youtube.com/watch?v=OrxmtDw4pVI
-
-## ⚛️ React
 - React Server components explained: https://www.youtube.com/watch?v=TQQPAU21ZUw
+- TypeScript Origins: The Documentary: https://www.youtube.com/watch?v=U6s2pdxebSo
 
 ## 💻 Other
 - Database transactions explained: https://www.youtube.com/watch?v=5ZjhNTM8XU8
