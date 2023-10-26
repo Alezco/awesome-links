@@ -110,6 +110,7 @@ A list of awesome links to articles, websites, videos, and more
 - awesome-privacy: https://github.com/pluja/awesome-privacy
 - react-philosophies: https://github.com/mithi/react-philosophies
 - The Big List of Naughty Strings: https://github.com/minimaxir/big-list-of-naughty-strings
+- Magic Keyboard : https://github.com/feross/magickeyboard.io
 
 ## 💻 Other
 - Wonderful Twitter account: https://twitter.com/iamdevloper
