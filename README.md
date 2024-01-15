@@ -78,6 +78,7 @@ A list of awesome links to articles, websites, videos, and more
 - The Password Game: https://neal.fun/password-game/
 - Data Collection Techniques: https://www.whonix.org/wiki/Data_Collection_Techniques
 - Internet Artifacts: https://neal.fun/internet-artifacts/
+- Calendars are complicated: https://yourcalendricalfallacyis.com/
 
 # 🎥 Videos
 - Conference about the event loop: https://www.youtube.com/watch?v=cCOL7MC4Pl0
