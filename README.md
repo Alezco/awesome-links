@@ -80,6 +80,7 @@ A list of awesome links to articles, websites, videos, and more
 - Data Collection Techniques: https://www.whonix.org/wiki/Data_Collection_Techniques
 - Internet Artifacts: https://neal.fun/internet-artifacts/
 - Calendars are complicated: https://yourcalendricalfallacyis.com/
+- Low carbon computing: https://codeberg.org/wimvanderbauwhede/low-carbon-computing/src/branch/master/Low-Carbon-Computing/transcript-Sm%C3%A1ri/Sm%C3%A1ri-McCarthy-why-are-computers-slow.txt
 
 # 🎥 Videos
 - Conference about the event loop: https://www.youtube.com/watch?v=cCOL7MC4Pl0
