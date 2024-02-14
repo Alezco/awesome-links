@@ -89,6 +89,7 @@ A list of awesome links to articles, websites, videos, and more
 - Documentary about Vue.js: https://www.youtube.com/watch?v=OrxmtDw4pVI
 - React Server components explained: https://www.youtube.com/watch?v=TQQPAU21ZUw
 - TypeScript Origins: The Documentary: https://www.youtube.com/watch?v=U6s2pdxebSo
+- Evan You - Thinking across the framework barrier: https://www.youtube.com/watch?v=YMwCPfABwHg
 
 ## 💻 Other
 - Database transactions explained: https://www.youtube.com/watch?v=5ZjhNTM8XU8
