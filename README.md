@@ -119,6 +119,7 @@ A list of awesome links to articles, websites, videos, and more
 - The Big List of Naughty Strings: https://github.com/minimaxir/big-list-of-naughty-strings
 - Magic Keyboard : https://github.com/feross/magickeyboard.io
 - JS Ecosystem cleanup: https://github.com/43081j/ecosystem-cleanup
+- Find social media accounts by username: https://github.com/sherlock-project/sherlock
 
 ## 💻 Other
 - Wonderful Twitter account: https://twitter.com/iamdevloper
