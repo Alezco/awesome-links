@@ -122,6 +122,7 @@ A list of awesome links to articles, websites, videos, and more
 - Magic Keyboard : https://github.com/feross/magickeyboard.io
 - JS Ecosystem cleanup: https://github.com/43081j/ecosystem-cleanup
 - Find social media accounts by username: https://github.com/sherlock-project/sherlock
+- System design 101: https://github.com/ByteByteGoHq/system-design-101
 
 ## 💻 Other
 - Wonderful Twitter account: https://twitter.com/iamdevloper
