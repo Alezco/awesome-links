@@ -12,6 +12,7 @@ A list of awesome links to articles, websites, videos, and more
 - You Might Not Need an Effect: https://react.dev/learn/you-might-not-need-an-effect
 - React I Love You, But You're Bringing Me Down: https://marmelab.com/blog/2022/09/20/react-i-love-you.html
 - Removing React is just weakness leaving your codebase: https://begin.com/blog/posts/2024-01-26-removing-react-is-just-weakness-leaving-your-codebase
+- The little mocker: https://blog.cleancoder.com/uncle-bob/2014/05/14/TheLittleMocker.html
 
 ## ⌨ Javascript
 - Memory management in v8: https://deepu.tech/memory-management-in-v8/
