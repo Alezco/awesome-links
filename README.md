@@ -84,6 +84,7 @@ A list of awesome links to articles, websites, videos, and more
 - Internet Artifacts: https://neal.fun/internet-artifacts/
 - Calendars are complicated: https://yourcalendricalfallacyis.com/
 - Low carbon computing: https://codeberg.org/wimvanderbauwhede/low-carbon-computing/src/branch/master/Low-Carbon-Computing/transcript-Sm%C3%A1ri/Sm%C3%A1ri-McCarthy-why-are-computers-slow.txt
+- Developer roadmaps: https://roadmap.sh/
 
 # 🎥 Videos
 - Conference about the event loop: https://www.youtube.com/watch?v=cCOL7MC4Pl0
