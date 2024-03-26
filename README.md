@@ -26,6 +26,7 @@ A list of awesome links to articles, websites, videos, and more
 - The Frustration Index: https://calendar.perfplanet.com/2019/frustrationindex-mind-the-gap/
 - Rethinking the Modern Web: https://dev.to/oxharris/rethinking-the-modern-web-5cn1
 - Visual Explanation and Comparison of CSR, SSR, SSG and ISR: https://dev.to/pahanperera/visual-explanation-and-comparison-of-csr-ssr-ssg-and-isr-34ea
+- Optimizing Javascript: https://romgrk.com/posts/optimizing-javascript
 
 ## 🔒 Privacy
 - Improve privacy in Windows 10: https://fdossena.com/?p=w10debotnet/index_1903.frag
