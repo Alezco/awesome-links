@@ -58,6 +58,7 @@ A list of awesome links to articles, websites, videos, and more
 - "Clean" Code, Horrible Performance: https://www.computerenhance.com/p/clean-code-horrible-performance
 - 6 Advanced TypeScript Tricks for Clean Code:https://medium.com/@mvsg/6-advanced-typescript-tricks-for-clean-code-90cee774dbf3
 - Hidden GitHub Commits and How to Reveal Them: https://neodyme.io/en/blog/github_secrets/#introduction
+- The best, worst codebase: https://jimmyhmiller.github.io/ugliest-beautiful-codebase
 
 # 🌐 Websites
 ## ⌨ Javascript
