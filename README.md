@@ -59,6 +59,7 @@ A list of awesome links to articles, websites, videos, and more
 - 6 Advanced TypeScript Tricks for Clean Code:https://medium.com/@mvsg/6-advanced-typescript-tricks-for-clean-code-90cee774dbf3
 - Hidden GitHub Commits and How to Reveal Them: https://neodyme.io/en/blog/github_secrets/#introduction
 - The best, worst codebase: https://jimmyhmiller.github.io/ugliest-beautiful-codebase
+- The funny rules of SpamAssassin in 2023 (deep dive): https://updown.io/blog/the-funny-rules-of-spamassassin-in-2023
 
 # 🌐 Websites
 ## ⌨ Javascript
