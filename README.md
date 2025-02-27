@@ -56,10 +56,11 @@ A list of awesome links to articles, websites, videos, and more
 - Database Connection Pools: https://medium.com/javarevisited/why-do-we-need-a-database-connection-pool-every-programmer-must-know-9f90e7c8e5af
 - The Tragedy of Craftsmanship: https://blog.cleancoder.com/uncle-bob/2018/08/28/CraftsmanshipMovement.html
 - "Clean" Code, Horrible Performance: https://www.computerenhance.com/p/clean-code-horrible-performance
-- 6 Advanced TypeScript Tricks for Clean Code:https://medium.com/@mvsg/6-advanced-typescript-tricks-for-clean-code-90cee774dbf3
+- 6 Advanced TypeScript Tricks for Clean Code: https://medium.com/@mvsg/6-advanced-typescript-tricks-for-clean-code-90cee774dbf3
 - Hidden GitHub Commits and How to Reveal Them: https://neodyme.io/en/blog/github_secrets/#introduction
 - The best, worst codebase: https://jimmyhmiller.github.io/ugliest-beautiful-codebase
 - The funny rules of SpamAssassin in 2023 (deep dive): https://updown.io/blog/the-funny-rules-of-spamassassin-in-2023
+- How Core Git Developers Configure Git: https://blog.gitbutler.com/how-git-core-devs-configure-git/
 
 # 🌐 Websites
 ## ⌨ Javascript
