@@ -90,6 +90,7 @@ A list of awesome links to articles, websites, videos, and more
 - Low carbon computing: https://codeberg.org/wimvanderbauwhede/low-carbon-computing/src/branch/master/Low-Carbon-Computing/transcript-Sm%C3%A1ri/Sm%C3%A1ri-McCarthy-why-are-computers-slow.txt
 - Developer roadmaps: https://roadmap.sh/
 - Oh Shit Git: https://ohshitgit.com/
+- European alternatives: https://european-alternatives.eu/
 
 # 🎥 Videos
 - Conference about the event loop: https://www.youtube.com/watch?v=cCOL7MC4Pl0
