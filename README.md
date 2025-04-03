@@ -137,7 +137,6 @@ A list of awesome links to articles, websites, videos, and more
 
 ## 💻 Other
 - Wonderful Twitter account: https://twitter.com/iamdevloper
-- Twitter thread about a weird bug: https://twitter.com/Foone/status/1229641258370355200?s=19
 - Twitter thread about React bundles: https://twitter.com/iamakulov/status/1353650608750825472?s=19
 - Twitter thread about how to make good code: https://twitter.com/hillelogram/status/1119709859979714560
 - Serial killer or programming language inventor?: https://vole.wtf/coder-serial-killer-quiz/
