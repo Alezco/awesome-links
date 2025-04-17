@@ -103,6 +103,7 @@ A list of awesome links to articles, websites, videos, and more
 - So you think you know git: https://www.youtube.com/watch?v=aolI_Rz0ZqY
 - Node.js: The Documentary: https://www.youtube.com/watch?v=LB8KwiiUGy0
 - How to Talk to Developers : https://www.youtube.com/watch?v=l9JXH7JPjR4
+- This is what a digital coup looks like: https://www.ted.com/talks/carole_cadwalladr_this_is_what_a_digital_coup_looks_like
 
 ## 💻 Other
 - Database transactions explained: https://www.youtube.com/watch?v=5ZjhNTM8XU8
