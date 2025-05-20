@@ -92,6 +92,7 @@ A list of awesome links to articles, websites, videos, and more
 - Developer roadmaps: https://roadmap.sh/
 - Oh Shit Git: https://ohshitgit.com/
 - European alternatives: https://european-alternatives.eu/
+- Is this tech dead? https://www.isthistechdead.com/
 
 # 🎥 Videos
 - Conference about the event loop: https://www.youtube.com/watch?v=cCOL7MC4Pl0
