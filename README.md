@@ -62,6 +62,7 @@ A list of awesome links to articles, websites, videos, and more
 - The funny rules of SpamAssassin in 2023 (deep dive): https://updown.io/blog/the-funny-rules-of-spamassassin-in-2023
 - How Core Git Developers Configure Git: https://blog.gitbutler.com/how-git-core-devs-configure-git/
 - Introducing `content-visibility: auto` - A Hidden Performance Gem: https://cekrem.github.io/posts/content-visibility-auto-performance/
+- Frequent reauth doesn't make you more secure: https://tailscale.com/blog/frequent-reath-security
 
 # 🌐 Websites
 ## ⌨ Javascript
