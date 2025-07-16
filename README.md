@@ -73,6 +73,7 @@ A list of awesome links to articles, websites, videos, and more
 - Islands architecture: https://www.patterns.dev/posts/islands-architecture/
 - Build your own React: https://pomb.us/build-your-own-react/
 - npm chaos of 2024: https://socket.dev/blog/when-everything-becomes-too-much
+- JS dates are wtf: https://jsdate.wtf/
 
 ## 💻 Other
 - Guide to HTML head: https://htmlhead.dev/
