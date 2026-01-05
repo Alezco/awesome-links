@@ -66,6 +66,7 @@ A list of awesome links to articles, websites, videos, and more
 - Optimizing a website to 128kB: https://medium.com/@mikehall314/im-more-proud-of-these-128-kilobytes-than-anything-i-ve-built-since-53706cfbdc18
 - How to manually set table names in Prisma and why you should: https://www.wking.dev/library/how-to-manually-set-table-names-in-prisma-and-why-you-should
 - From passwords to passakeys: https://ssg.dev/from-passwords-to-passkeys/
+- A website to destroy all websites: https://henry.codes/writing/a-website-to-destroy-all-websites/
 
 # 🌐 Websites
 ## ⌨ Javascript
