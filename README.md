@@ -68,6 +68,7 @@ A list of awesome links to articles, websites, videos, and more
 - From passwords to passakeys: https://ssg.dev/from-passwords-to-passkeys/
 - A website to destroy all websites: https://henry.codes/writing/a-website-to-destroy-all-websites/
 - Falsehoods Programmers Believe About Names: https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/
+- The 49MB Web Page: https://thatshubham.com/blog/news-audit
 
 # 🌐 Websites
 ## ⌨ Javascript
