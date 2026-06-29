@@ -70,6 +70,7 @@ A list of awesome links to articles, websites, videos, and more
 - Falsehoods Programmers Believe About Names: https://www.kalzumeus.com/2010/06/17/falsehoods-programmers-believe-about-names/
 - The 49MB Web Page: https://thatshubham.com/blog/news-audit
 - I Could've Rickrolled the Entire FIFA World Cup. All I Needed Was My ID.: https://bobdahacker.com/blog/fifa-hack
+- Since You Arrived: https://sinceyouarrived.world/taken
 
 # 🌐 Websites
 ## ⌨ Javascript
